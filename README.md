@@ -21,7 +21,7 @@ _templates/
 _includes/                text shared across editions, pulled in with the include shortcode
   code-of-conduct-{en,fr}.qmd
   gdpr-{en,fr}.qmd        reads page metadata: contact.secretariat, gdpr.controller
-assets/                   site-wide files reused across years (logos, flags, favicon)
+assets/                   site-wide files reused across years (logos, flags, favicon = current hex)
 index.qmd                 home page (hero + 4 most recent editions)
 about.qmd                 history of uRos, hosting, Code of Conduct
 conferences/
@@ -56,6 +56,8 @@ includes can live next to real pages.
 3. In `_quarto.yml`, point the *Conferences* menu (and the home page buttons in
    `index.qmd`) at the new edition. In `_brand.yml`, swap `hex-current` to the
    new hex sticker.
+   Regenerate the favicon from the new hex:
+   `convert images/uros2027-hex.png -trim +repage -define icon:auto-resize=64,48,32,16 ../../assets/favicon.ico`
 4. For a translation, add `fr.qmd` with `lang: fr` (Quarto translates the UI
    strings) and enable the `.lang-switch` block on both pages.
 5. For a live page, copy `2026/live.qmd`. Photos go in `photos/dayN/`, with one
