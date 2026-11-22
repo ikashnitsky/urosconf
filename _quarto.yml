@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   # Anything under a leading-underscore path (_includes/, */_template/) is
   # never rendered; it is either included into pages or used as a skeleton.
 
