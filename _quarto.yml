@@ -7,8 +7,7 @@ project:
 website:
   title: "uRos"
   description: >-
-    The Use of R in Official Statistics: the annual international conference
-    for official statisticians, methodologists and data scientists using R.
+    The Use of R in Official Statistics: the annual international conference for official statisticians, methodologists and data scientists using R.
   favicon: assets/favicon.ico
   # urosconf.org (advertised on the hex sticker) currently redirects to r-project.ro.
   site-url: https://urosconf.org

@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/conferences/2026/index.html"
+    ]
+  },
+  {
+    "listing": "/conferences/index.html",
+    "items": [
+      "/conferences/2026/index.html"
+    ]
+  },
+  {
+    "listing": "/events/index.html",
+    "items": []
+  }
+]
