@@ -1,0 +1,41 @@
+---
+title: "About uRos"
+subtitle: "The Use of R in Official Statistics"
+title-block-banner: true
+---
+
+## The conference
+
+Over the last two decades R has become the *lingua franca* for statisticians, methodologists and data scientists worldwide. The reasons why the official statistics community is rapidly embracing R are clear: it has an active worldwide community of users, there is wide support from the industry and it combines a vast amount of functionalities for data preparation, methodology, visualisation and application building. Moreover, R-based software is exchanged through strictly enforced technical standards:
+
+> "R is probably the most thoroughly validated statistics software on Earth."
+> --- Uwe Ligges, CRAN maintainer (useR!2017)
+
+Finally, R is a free (libre) Open Source software product, making it an ideal environment for sharing, collaboration and industrialising official statistics.
+
+## History
+
+- **2013** – The first workshop on "use of R in official statistics" was held at the Ecological University of Bucharest, Department of Economics, under the topic *State-of-the-art statistical software commonly used in applied economics*.
+- **2014** – The first international edition, held at the Statistical Office of Romania.
+- **2018** – Statistics Netherlands hosted the sixth edition, which brought together official statisticians, scientists, and prominent members of the R community to share ideas on using and developing R tools in the area of official statistics.
+- **2020** – Statistics Austria hosted the conference, for the first time as a virtual event.
+- **2021** – uRos was hosted by its home country and institution, the Romanian National Statistics Institute.
+- **2022** – A decade of uRos was celebrated by the first non-European uRos, hosted by Statistics Canada as a virtual event.
+- **2023** – After three editions online, uRos was back on-site, hosted by the Romanian NSI headquarters.
+- **2024** – Organised by the Hellenic Statistical Authority (ELSTAT) in collaboration with the Romanian National Institute of Statistics and traditional partners Statistics Austria and CBS Netherlands, along with the Ecological University of Bucharest and the University of Bucharest.
+- **2025** – The event travelled back to Romania, hosted by the Romanian National Institute of Statistics.
+- **2026** – [uRos2026](conferences/2026/index.qmd) was hosted by INSEE in Paris, France.
+
+Browse [all editions](conferences/index.qmd).
+
+## Hosting a future edition
+
+We are looking for interested persons or institutions to host future editions of the conference. Please just get in touch with us if you are interested (Ana Maria Ciuhu, anamaria.ciuhu \[at\] insse.ro). Some marginal constraints are written down in this [document](https://r-project.ro/uRosMarginalConstraints.pdf).
+
+## Who is behind uRos
+
+uRos was started by the [R Project – Romania Team](https://r-project.ro/), a user community promoting the R project for statistical computing among individuals, institutions, and commercial and non-commercial organisations in Romania. Each edition is co-organised with a hosting statistical institute and long-standing partners, including Statistics Austria, Statistics Netherlands, the Ecological University of Bucharest and the University of Bucharest.
+
+## Code of Conduct
+
+{{< include /_includes/code-of-conduct-en.qmd >}}

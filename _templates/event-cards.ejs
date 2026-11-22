@@ -1,0 +1,48 @@
+<% if (items.length === 0) { %>
+<p class="listing-empty">Nothing here yet.</p>
+<% } %>
+<div class="event-list">
+<% for (const item of items) { %>
+<% const href = item.path; %>
+<% const external = !!href && (href.startsWith('http://') || href.startsWith('https://')); %>
+<% const meta = [item.dates, item.location].filter(Boolean).join(' · '); %>
+<div class="event-card position-relative" <%= metadataAttrs(item) %>>
+<div class="event-card-head">
+<% if (item.image) { %>
+<img class="event-card-img" src="<%- item.image %>" alt="<%= item['image-alt'] || '' %>" loading="lazy">
+<% } %>
+<div>
+<% if (item.year) { %>
+<div class="event-year"><%= item.year %></div>
+<% } %>
+<div class="event-title">
+<% if (href) { %>
+<a class="stretched-link" href="<%- href %>"<% if (external) { %> target="_blank" rel="noopener"<% } %>><%= item.title %></a>
+<% } else { %>
+<%= item.title %>
+<% } %>
+</div>
+</div>
+</div>
+<% if (meta) { %>
+<div class="event-meta"><%= meta %></div>
+<% } %>
+<% if (item.host) { %>
+<div class="event-meta">Host: <%= item.host %></div>
+<% } %>
+<% if (item.description) { %>
+<div class="event-desc"><%= item.description %></div>
+<% } %>
+<div class="event-badges">
+<% if (item['event-format']) { %>
+<span class="event-badge"><%= item['event-format'] %></span>
+<% } %>
+<% if (item.legacy) { %>
+<span class="event-badge">archived page ↗</span>
+<% } else if (external) { %>
+<span class="event-badge">external ↗</span>
+<% } %>
+</div>
+</div>
+<% } %>
+</div>

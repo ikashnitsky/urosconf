@@ -1,0 +1,378 @@
+---
+title: "uRos2026"
+subtitle: "L'utilisation de R dans la statistique publique · 18–20 novembre 2026 · Paris, France"
+description: >-
+  Organisée par l'Insee au ministère de l'Économie et des Finances, Centre de
+  conférences Pierre Mendès France.
+lang: fr
+toc-title: "Sur cette page"
+image: images/uros2026-hex.png
+image-alt: "Sticker hexagonal uRos2026 : la tour Eiffel arborant un drapeau R"
+aliases:
+  - /conference2026_FR.html
+
+dates: "18–20 novembre 2026"
+venue: "Centre de conférences Pierre Mendès France, 139 rue de Bercy, 75012 Paris"
+host: "Insee"
+event-format: "Sur place"
+
+contact:
+  secretariat: "uros2026 [at] insee.fr"
+gdpr:
+  # Kept verbatim from the original French page (see README, "Known content issues").
+  controller-fr-de: "de Statistique Canada"
+---
+
+::: {.lang-switch}
+[![](/assets/flags/gb.png) English](index.qmd){hreflang="en" lang="en"}
+[![](/assets/flags/fr.png) Français]{.active aria-current="page"}
+:::
+
+Visitez régulièrement ce site web pour les mises à jour ou [suivez-nous sur LinkedIn](https://www.linkedin.com/company/the-use-of-r-in-official-statistics-uros/posts).
+
+::: {.event-facts}
+::: {.fact}
+[Dates]{.label} {{< meta dates >}}
+:::
+::: {.fact}
+[Lieu]{.label} {{< meta venue >}}
+:::
+::: {.fact}
+[Organisateur]{.label} {{< meta host >}}
+:::
+::: {.fact}
+[Format]{.label} {{< meta event-format >}}
+:::
+:::
+
+## Conférence uRos 2026 à Paris (France) 18 au 20 novembre 2026
+
+La conférence annuelle sur l'utilisation de R dans la statistique publique se tiendra à Paris, au centre de conférences Pierre Mendès France, au ministère de l'Economie et des Finances, du 18 au 20 novembre 2026.
+
+::: {.banner}
+![](images/banner.jpg){fig-alt="Trois panneaux : le sticker hexagonal uRos2026 avec la tour Eiffel arborant un drapeau R ; le bâtiment du ministère de l'Économie et des Finances à Bercy, au bord de la Seine ; et un plan de Paris avec une flèche rouge indiquant le Centre de conférences Pierre Mendès France dans le 12e arrondissement."}
+:::
+
+Au cours des deux dernières décennies, R est devenu la *lingua franca* des statisticiens, des méthodologistes et des data scientists du monde entier. Les raisons pour lesquelles la communauté des statisticiens publics a adopté le logiciel R avec autant d'enthousiasme sont simples: il existe une communauté mondiale d'utilisateurs actifs; le logiciel bénéficie d'un vaste soutien du secteur privé; et il réunit un grand nombre de fonctionnalités des plus utiles pour la préparation des données, la méthodologie, la visualisation et la conception d'applications. De plus, les logiciels basés sur R sont échangés conformément à des normes techniques rigoureuses:
+
+> « R est probablement le logiciel de statistique le plus rigoureusement validé sur terre. »
+> --- Uwe Ligges, technicien de maintenance du CRAN (useR!2017)
+
+L'événement annuel « use of R in Official Statistics » a eu lieu pour la première fois en 2013. Il s'agissait alors d'une conférence locale organisée par le Bureau de la statistique de la Roumanie. Une première édition internationale a été tenue l'année suivante par ce même bureau. En 2018, Statistique Pays-Bas a accueilli la sixième édition de l'événement, lors de laquelle des statisticiens, des scientifiques et des membres importants de la communauté R se sont réunis pour échanger des idées sur l'utilisation et le développement des outils R dans le domaine la statistique publique.
+
+En 2020, c'était au tour de Statistique Autriche d'accueillir l'événement qui, pour la première fois, s'est déroulé de façon virtuelle. En 2021, uRos a été de nouveau organisé par le pays et l'institution qui l'ont vu naître : l'Institut National Statistique Roumain.
+
+Une décennie de conférences uRos a été célébrée lors du premier uRos non européen, organisé par Statistique Canada, sous la forme d'un événement virtuel en décembre 2022.
+
+Après trois éditions en ligne, la conférence de 2023 a de nouveau pu se tenir en présentiel, organisée par le siège de l'INS roumain.
+
+uRos 2024 a été organisée par l'Autorité statistique hellénique (ELSTAT) en collaboration avec l'Institut national de statistique roumain et ses partenaires traditionnels, à savoir Statistics Austria et CBS Netherlands, ainsi que l'Université écologique de Bucarest et l'Université de Bucarest.
+
+En 2025, l'événement est revenu en Roumanie, organisé par son institution d'origine, l'Institut national de statistique roumain.
+
+Au nom de l'Insee, nous sommes ravis d'accueillir l'édition 2026 au cœur de Paris. L'Insee a adopté R progressivement ces quinze dernières années et c'est désormais le logiciel statistique le plus utilisé à l'Institut.
+
+Voir [l'archive de toutes les conférences uRos](/conferences/index.qmd).
+
+## En direct
+
+[Cette page](live.qmd) (en anglais) contient l'ordre du jour, les informations en temps réel et les informations importantes concernant la conférence, ainsi que les photos.
+
+## Abstracts
+
+**Télécharger le recueil des résumés:** [uros2026_book_of_abstracts.pdf](files/uros2026_book_of_abstracts.pdf)\
+**ISSN: 3153 – 5143**
+
+## Dates importantes
+
+| Étape                                                        | Date                |
+|--------------------------------------------------------------|---------------------|
+| Date limite pour la soumission des abstracts et des tutoriels | ~~15~~ 30 juin 2026 |
+| Notification d'acceptation                                   | 20 juillet 2026     |
+| Conférence scientifique                                      | 18-20 novembre 2026 |
+| Date limite pour la soumission des articles scientifiques    | 15 janvier 2027     |
+
+## Keynote Speakers
+
+### Rebecca Killick
+
+::: {.speaker .grid}
+::: {.g-col-12 .g-col-md-3 .speaker-photo}
+![](images/rebecca-killick.jpg){fig-alt="Portrait de Rebecca Killick."}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+Rebecca Killick a obtenu son doctorat en statistiques à l'université de Lancaster, où elle occupe les fonctions de professeure et de directrice de recherche. En 2019, elle a été la première Britannique à recevoir le prix « Jeune statisticienne de l'année » décerné par le Réseau européen pour les statistiques commerciales et industrielles, qui récompense le travail des jeunes visant à introduire des méthodes innovantes, à promouvoir l'utilisation des statistiques et/ou à les mettre en œuvre avec succès dans la pratique quotidienne. Rebecca considère sa recherche comme une boucle de rétroaction : elle s'inspire de problèmes rencontrés dans des applications concrètes, crée des méthodologies innovantes pour les résoudre, puis réinjecte ces résultats dans le domaine concerné. Ses principaux intérêts de recherche portent sur les méthodologies d'analyse de modèles de séries chronologiques non stationnaires univariées et multivariées. Cela couvre de nombreux thèmes, notamment le développement et la sélection de modèles, l'estimation efficace, le diagnostic, la classification et la prédiction. Rebecca s'inspire de problématiques concrètes et travaille sur des données notamment issues de la bio-informatique, du secteur de l'énergie, de l'environnement, de la finance, de la santé, de la linguistique et de la statistique publique. Rebecca se passionne pour l'accessibilité de la recherche sous la forme de logiciels open source. Dans ce cadre, elle milite auprès de la communauté statistique pour la reconnaissance des logiciels de recherche en tant que production académique, est co-rédactrice en chef du Journal of Statistical Software, du Journal of Computational and Graphical Statistics, et membre du comité d'évaluation par les pairs des logiciels statistiques de rOpenSci.
+:::
+:::
+
+::: {.callout-note appearance="simple" icon="false" title="Keynote : « R and Open-Source: A love story »"}
+**Résumé :** Les motivations qui poussent chacun à commencer et à continuer à contribuer aux logiciels open source varient d'une personne à l'autre. Au cours des vingt dernières années, j'ai traversé diverses phases d'amour, de haine, de joie et de frustration vis-à-vis de R et de la communauté open source au sens large. Je me retrouve aujourd'hui à mi-parcours dans ma carrière et j'aime à réfléchir à la manière dont j'en suis arrivée là où je suis actuellement, ainsi qu'aux moments charnière qui ont jalonné mon parcours. L'open source a été une constante tout au long de ce parcours, et ce n'est pas un hasard, mais les choses auraient pu être très différentes. Dans cette présentation, je partagerai certaines de ces réflexions avec vous et j'aborderai les différentes manières dont nous pouvons tous apporter notre propre contribution, que ce soit à court terme ou dans le cadre d'un parcours professionnel.
+:::
+
+### Simon Couch
+
+::: {.speaker .grid}
+::: {.g-col-12 .g-col-md-3 .speaker-photo}
+![](images/simon-couch.png){fig-alt="Portrait de Simon Couch."}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+Simon Couch développe des outils qui rendent le travail en science des données plus agréable et plus efficace. En tant qu'ingénieur au sein de l'équipe AI Core chez Posit, son travail couvre le codage d'agents, l'évaluation de modèles et les systèmes de suggestion de modifications. Fort de sa formation en statistiques, Simon a passé plusieurs années à créer et à maintenir des packages essentiels du framework open source tidymodels — tels que stacks, broom et infer — avant de se consacrer aux modèles de langage (LLM). Il tient un blog sur son travail à l'adresse [simonpcouch.com](https://simonpcouch.com).
+:::
+:::
+
+::: {.callout-note appearance="simple" icon="false" title="Keynote : « Practical AI for Data Science »"}
+**Résumé :** Comment concevoir des agents d'analyse de données compétents ? L'analyse de données exige de savoir marquer une pause, remettre en question les conclusions, approfondir les nuances et accepter l'incertitude. Or, les modèles de langage (LLM) de pointe sont optimisés pour mener les tâches à leur terme, plutôt que pour s'abstenir de répondre à des questions insolubles. En nous appuyant sur notre expérience dans le développement de tels agents, nous présenterons des évaluations mettant en lumière les défaillances des analyses pilotées par LLM, ainsi que des modèles de conception garantissant la justesse, la transparence et la reproductibilité des analyses.
+:::
+
+## Programme
+
+::: {.day-cards}
+::: {.day}
+[18 novembre]{.day-title}
+
+- Tutoriels
+:::
+
+::: {.day}
+[19 novembre]{.day-title}
+
+- Ouverture par la Directrice de la méthodologie et des relations internationales à l'Insee, Corinne Prost
+- Keynote Speaker 1
+- Sessions de présentations
+- Session de présentation des posters
+:::
+
+::: {.day}
+[20 novembre]{.day-title}
+
+- Keynote Speaker 2
+- Sessions de présentations et discours de clôture
+:::
+:::
+
+**Programme uRos 2026:** [uros2026_programme.pdf](https://raw.githubusercontent.com/uRosConf/programme2026/main/uros2026_programme.pdf) · Horaires détaillés sur la [page en direct](live.qmd#agenda).
+
+## Inscription
+
+La page d'inscription est accessible à l'adresse suivante: <https://uros2026.sciencesconf.org/registration?lang=fr>. Pour vous inscrire, vous devez créer un compte sur SciencesConf.org
+
+::: {.callout-tip appearance="simple" title="Frais d'inscription à la conférence : 330 EUR"}
+Les frais d'inscription comprennent:
+
+- les trois déjeuners et six les pauses café;
+- le cocktail officiel, le jeudi soir;
+- un certificat de participation;
+- l'accès à toutes les sessions;
+- les documents de la conférence.
+:::
+
+Les frais d'inscription doivent être réglés par virement bancaire à l'INSEE **avant le 15 septembre**.
+
+Vous pouvez effectuer un paiement individuel ou un paiement groupé au nom d'une institution.
+
+- Veillez à avoir préalablement complété l'inscription de tous les participants pour lesquels vous comptez effectuer le paiement.
+- Vous trouverez ci-joint les coordonnées bancaires ([RIB](files/insee-rib.pdf)) de l'INSEE.
+- Le motif du virement doit être « INSEE-COLLOQUE UROS - NOM ». Où le NOM est le nom de l'institution (par exemple, « INSEE-COLLOQUE UROS – EUROSTAT ») ou un nom de la personne (par exemple, « INSEE-COLLOQUE UROS – DJOKOVIC »)
+- Envoyez un e-mail à <uros2026@insee.fr> en indiquant les noms des participants pour lesquels vous avez effectué le paiement, leur institution, le montant total payé en euros et une copie numérisée de l'ordre de virement bancaire.
+
+Veuillez noter qu'aucune inscription ne sera remboursée.
+
+## Appel à communications - présentations
+
+Nous vous invitons cordialement à soumettre vos abstracts à la Conférence internationale *Use of R in Official Statistics – uRos2026* avant le ~~15~~ 30 juin 2026.
+
+Il y aura deux types de présentations : les « présentations classiques » d'une durée d'environ 15 minutes et les « présentations éclair » d'une durée de 5 minutes. Nous vous demandons de bien vouloir indiquer votre préférence, mais c'est le comité scientifique qui attribuera finalement les présentations aux deux catégories.
+
+Les thèmes abordés sont les suivants, listés en anglais, langue dans laquelle se feront les présentations:
+
+1. **Data Access, Integration, and Metadata**
+   - Exploring New Data Sources
+   - APIs and Data Access
+   - Interoperability with Other Statistical Software
+   - Metadata Management and Standards using R
+2. **Methods for Official Statistics**
+   - Sampling and Estimation
+   - Data Cleaning / Data Editing
+   - Synthetic Data Generation for Privacy-Preserving Analysis
+   - Time Series
+   - Disclosure Control and Secured Dissemination
+   - Combining sources and multi-source statistics
+3. **Applications across statistical domains**
+   - Demographic and social statistics
+   - Economic statistics
+   - Environment statistics
+   - Governance statistics
+   - Cross-cutting statistics
+4. **Advanced Analytics and AI**
+   - Machine Learning and AI
+   - LLMs for R applications (code generation, translation, refactoring, checking)
+   - NLP in Official Statistics
+5. **Automating and Operationalizing Official Statistics**
+   - Organizational Setup
+   - Use in Production
+   - Automating Official Statistics Pipelines
+   - Capacity Building and Training for R in Statistical Offices
+6. **Reproducibility and Open Science**
+   - Reproducibility in Official Statistics
+   - Open Science
+   - Collaborative Development
+7. **Visualization and Mapping**
+   - Dissemination and Visualization
+   - Geospatial Analysis and Mapping
+   - Report and GUI Programming
+
+The submission website is TBA soon.\
+Pour soumettre votre abstract, vous devez créer un compte sur SciencesConf.
+
+SciencesConf est une plateforme web permettant de gérer les conférences scientifiques organisées par des institutions universitaires et de recherche. Elle a été développée par le CCSD - CNRS (Centre national de la recherche scientifique).
+
+### Processus de soumission
+
+Le processus de soumission requiert:
+
+- un titre;
+- la liste des auteurs, accompagnée de leur affiliation;
+- un résumé (en texte brut — aucun formatage HTML, TeX ou MarkDown n'est accepté, 400 mots maximum);
+- un type (soumission de tutoriel/présentation régulière/présentation éclair);
+- pour les présentations régulières et les présentations éclair, veuillez sélectionner un seul sujet (même si le formulaire permet plusieurs sélections). Ce sujet doit être indiqué lors de la première étape de la soumission.
+
+Après l'envoi, vous recevrez un e-mail confirmant votre soumission. Vous pouvez modifier votre soumission jusqu'au début du processus d'examen (juin 2026).
+
+## Appel à contributions - tutoriels
+
+Les tutoriels dureront entre 2 et 4 heures (1 créneau correspond à 2 heures). Les tutoriels seront présentés sous forme de présentations en direct. Les tutoriels doivent inclure des éléments interactifs permettant aux participants de faire des exercices. Dans votre résumé, veillez à mentionner les logiciels ou les paquets que les participants doivent installer avant de suivre le tutoriel. Le champ des tutoriels acceptés couvre l'ensemble du processus de production des statistiques officielles. La date limite pour la soumission des tutoriels est fixée au ~~15~~ 30 juin 2026.
+
+## EMOS Session
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-9}
+uRos collabore à nouveau avec le [European Master in Official Statistics](https://cros.ec.europa.eu/dashboard/emos-dashboard) (EMOS).
+
+- Le programme uRos comprendra une session destinée aux étudiants et aux jeunes diplômés de l'EMOS. Une excellente occasion pour les étudiants et les diplômés ambitieux de présenter leurs travaux de master liés à R devant un public travaillant pour la statistique publique.
+- Les étudiants EMOS et les jeunes diplômés EMOS peuvent demander une bourse pour participer à l'uRos dans le cadre du Programme de mobilité EMOS. Pour plus de détails sur la procédure de demande de bourse, veuillez consulter le site web du [Programme de mobilité EMOS](https://emosmobility.devstat.com/event/index).
+:::
+
+::: {.g-col-12 .g-col-md-3}
+[![](/assets/logos/emos.jpg){fig-alt="Logo EMOS, European Master in Official Statistics"}](https://cros.ec.europa.eu/dashboard/emos-dashboard){.logo-chip}
+:::
+:::
+
+**Dates importantes**:
+
+- La date limite de soumission des abstracts pour les étudiants EMOS et les jeunes diplômés EMOS est fixée au **vendredi 17 juillet 2026**. Vous devez préciser que vous êtes étudiant EMOS lors de la soumission de votre abstract. Consignes de soumission : toutes les soumissions doivent respecter les directives et la procédure de soumission d'uRos.
+- Le comité scientifique d'uRos communiquera sa décision d'acceptation ou de refus au plus tard le **1er août 2026**.
+
+## Articles pour des numéros spéciaux de revues
+
+Les auteurs dont le résumé a été accepté peuvent soumettre un article complet à l'une des revues suivantes *Romanian Statistical Review* (numéro spécial) et revue de l'Insee France – Économie et statistiques.
+
+**Romanian Statistical Review**
+
+Un maximum de dix articles de recherche sélectionnés seront publiés dans un numéro spécial de la [Romanian Statistical Review](http://www.revistadestatistica.ro/). Les publications sont soumises à un processus standard d'évaluation par les pairs. Veuillez bien vous assurer de respecter les directives à l'intention des auteurs de la [RSR author guidelines](http://www.revistadestatistica.ro/index.php/author-guidelines/).
+
+Les articles doivent être soumis au plus tard le 15 janvier 2027 par courrier électronique à l'adresse suivante: anamaria.ciuhu \[at\] insse.ro
+
+La *Romanian Statistical Review* fait partie de la Web Of Science Core Collection - Emerging Sources Citation Index (ESCI), une base de données de Clarivate Analytics. Elle vise à offrir un espace propice à l'échange d'idées et à la remise en question. Tout article pouvant contribuer à la compréhension des statistiques en tant que science est le bienvenu. Elle est en libre accès et sans frais.
+
+## Presentations
+
+Les présentations sont téléchargées sur une page séparée (lien à venir).
+
+## Organisation
+
+### Comité d'organisation
+
+::: {.people-list}
+- Anna Smyk (Insee, Institut National de la Statistique et des Etudes Économiques, France)
+- Ana Maria Ciuhu (Statistics Romania and Institute of National Economy, Romanian Academy)
+- Ciprian Alexandru (Ecological University of Bucharest)
+- Alexander Kowarik (Statistics Austria)
+- Mark van der Loo (Eurostat and Leiden University)
+- Bogdan Oancea (University of Bucharest)
+- Marian Necula (University of Bucharest and National Research and Development Institute for Biological Sciences)
+- Silvia Pisică (Statistics Romania)
+- Daniela Ștefănescu (Statistics Romania)
+- Raluca-Mariana Drăgoescu (Statistics Romania)
+- Adriana Dârdală (Bucharest University of Economic Studies)
+- Sebastian Wójcik (Statistics Poland)
+:::
+
+### Scientific Board
+
+::: {.people-list}
+- Tudorel Andrei (President, National Institute of Statistics - Romania)
+- Roxana Adam (IMT Alti Studi Lucca, Italy)
+- Gergely Daróczi (RX Studio, USA/Hungary)
+- Adrian Dusa (University of Bucharest, Romania)
+- Claudiu Herteliu (Bucharest University of Economic Studies, EMOS Board, România)
+- Edwin de Jonge (Statistics Netherlands, The Netherlands)
+- Marius Nicolae Jula (University of Bucharest, Romania)
+- Kamarul Ariffin Mansor (MARA University of Technology, Malaysia)
+- Alina Matei (University of Neuchatel, Switzerland)
+- Esperanza Magpantay (International Telecommunication Union-ITU)
+- Bernhard Meindl (Statistics Austria, Austria)
+- Matyas Meszaros (Eurostat, Luxemburg)
+- Bogdan Oancea (University of Bucharest, Romania)
+- Marcello d'Orazio (Italian National Institute of Statistics - Rome, Italy)
+- Fethi Şaban Özbek (Turkish Statistical Institute)
+- Mihaela Paun (University of Bucharest)
+- Silvia Pisică (Statistics Romania)
+- Daniela Ștefănescu (Statistics Romania)
+- Matthias Templ (University of Applied Sciences and Arts Northwestern Switzerland)
+- Valentin Todorov (UNIDO, Vienna Austria)
+- Kazumi Wada (Ministry of Internal Affairs and Communications, Japan)
+- Karsten Webel (Deutsche Bundesbank, Germany)
+- Sebastian Wójcik (Statistics Poland)
+:::
+
+## Lieu et contact
+
+Nous serons ravis de vous rencontrer en personne dans les locaux du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique, au Centre de conférences Pierre Mendès France !\
+Lieu de la conférence : Centre de conférences Pierre Mendès France, 139 rue de Bercy, 75012 Paris, France.
+
+Vous pouvez contacter le secrétariat de la conférence à l'adresse suivante: {{< meta contact.secretariat >}}
+
+LinkedIn Page: <https://www.linkedin.com/company/the-use-of-r-in-official-statistics-uros/posts>
+
+Vous trouverez ici une liste [d'hôtels](files/hotels-near-pmf-bercy.pdf) et de [restaurants](files/restaurants-near-pmf-bercy.pdf) recommandés à proximité du centre de conférences.
+
+## Membres du secrétariat
+
+Anna Smyk, INSEE France\
+Ana Maria Ciuhu, National Institute of Statistics, Romania
+
+## Code de conduite
+
+{{< include /_includes/code-of-conduct-fr.qmd >}}
+
+## Conditions liées au Règlement général sur la protection des données (RGPD)
+
+{{< include /_includes/gdpr-fr.qmd >}}
+
+## Organisateurs
+
+::: {.partner-grid}
+::: {.partner}
+[![](/assets/logos/insee.svg){fig-alt="Logo de l'Insee"}](https://www.insee.fr/){.logo-chip}
+
+INSEE - France
+:::
+
+::: {.partner}
+[![](/assets/logos/ins-romania.png){fig-alt="Logo de l'Institut national de la statistique de Roumanie"}](http://www.insse.ro/){.logo-chip}
+
+National Institute of Statistics - Romania
+:::
+
+::: {.partner}
+[![](/assets/logos/ueb.png){fig-alt="Logo de l'Université écologique de Bucarest"}](http://www.ueb.ro/){.logo-chip}
+
+Ecological University of Bucharest
+:::
+:::
+
+## Partenaires médias
+
+[![](/assets/logos/international-conference-alerts.png){fig-alt="Logo International Conference Alerts"}](https://internationalconferencealerts.com/){.logo-chip}

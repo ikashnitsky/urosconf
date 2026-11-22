@@ -1,0 +1,31 @@
+<!-- Shared across conference pages; pulled in via the Quarto "include" shortcode.
+     Needs page metadata: contact.secretariat, gdpr.controller. -->
+
+This chapter sets out the terms and conditions between organisers and you when you register as a participant for this conference and you are agreeing to comply with these terms and conditions.
+
+Please read these terms and conditions carefully.
+
+**DECLARATION OF CONSENT**
+
+I hereby give my consent for organisers to collect, process and use my personal data for the purposes related to my participation to uRos Conference events and for any other use to which I have consented. The data that can be collected consist of:
+
+- Name, surname, academic degree, institutional affiliation, e-mail address;
+- Photos from the conference that might include my person;
+- Videos from the conference that might include my person;
+- Abstracts and slides from presenters to be published on the conference's website.
+
+**USE OF PERSONAL DATA**
+
+Organisers will not sell your personal data.\
+The processing of the respective personal data involves communication with the authors in order to publish the studies, publication of the accepted studies in journals and indexation of the journal in international databases.\
+I hereby give my consent to organisers to use my personal data for the following purposes:
+
+- to receive email communication about uRos Conference events;\
+- to use my images and videos in which I may be photographed or filmed by the organiser's photographer and/or cameraman in promotional or event related materials by organisers.
+
+The usage of my personal data must comply with the requirements of the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons about the processing of personal data and on the free movement of such data ("GDPR").
+
+**PERSONAL INFORMATION**
+
+You can ask organisers at any time to have an unrestricted access to your personal data and exercise your rights to: consult, modify, erase, export your personal information, by sending a message to the conference secretariat e-mail: {{< meta contact.secretariat >}}.\
+You will find all data protection information (name and address of {{< meta gdpr.controller >}} as controller within the meaning of the GDPR, name and address of the data protection officer of {{< meta gdpr.controller >}} as well as information on the data protection rights and rights of complaint to which you are entitled) in the [data protection information about this website](https://r-project.ro/conference2020_legal_notice.html).

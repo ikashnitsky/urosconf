@@ -1,0 +1,23 @@
+# brand.yml — https://posit-dev.github.io/brand-yml/
+# Colours and fonts are intentionally left to the Bootswatch "quartz" theme
+# (see _quarto.yml). Only identity information lives here.
+meta:
+  name:
+    short: uRos
+    full: The Use of R in Official Statistics
+  link:
+    home: https://urosconf.org
+    linkedin: https://www.linkedin.com/company/the-use-of-r-in-official-statistics-uros/
+    github: https://github.com/uRosConf
+
+logo:
+  images:
+    # Swap this for the new edition's hex sticker each year.
+    hex-current:
+      path: conferences/2026/images/uros2026-hex.png
+      alt: "uRos2026 hex sticker: the Eiffel Tower flying an R flag, with urosconf.org"
+    r-logo:
+      path: assets/logos/r-logo.png
+      alt: "R logo"
+  small: hex-current
+  medium: hex-current

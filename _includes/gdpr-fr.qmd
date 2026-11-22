@@ -1,0 +1,31 @@
+<!-- Shared across conference pages; pulled in via the Quarto "include" shortcode.
+     Needs page metadata: contact.secretariat, gdpr.controller-fr-de. -->
+
+Le présent chapitre énonce les conditions qui interviennent entre vous et les organisateurs dès le moment où vous vous inscrivez à la conférence à titre de participant. Vous acceptez de vous conformer à ces conditions.
+
+Veuillez lire les présentes conditions avec attention.
+
+**DÉCLARATION DE CONSENTEMENT**
+
+Je consens par les présentes à ce que les organisateurs recueillent, traitent et utilisent mes données personnelles aux fins liées à ma participation aux événements de la conférence uRos ainsi qu'à toute autre fin à laquelle j'ai consenti. Les données qui peuvent être recueillies sont les suivantes:
+
+- Nom, prénom, diplôme(s), affiliation institutionnelle, adresse courriel;\
+- Photos de la conférence sur lesquelles je peux figurer;\
+- Vidéos de la conférence dans lesquelles je peux figurer;\
+- Abstracts et diapositives des présentations devant être publiées sur le site Web de la conférence.
+
+**UTILISATION DES DONNÉES PERSONNELLES**
+
+Les organisateurs ne vendront pas vos données personnelles.\
+Le traitement des données personnelles respectives implique de communiquer avec les auteurs aux fins de la publication des études acceptées dans différentes revues et de l'indexation de ces revues dans les bases de données internationales.\
+Je consens par les présentes à ce que les organisateurs utilisent mes données personnelles aux fins suivantes:
+
+- recevoir des communications par courriel concernant les événements de la conférence uRos;\
+- utiliser les images et les vidéos dans lesquels je figure, qui ont été réalisées par le photographe et/ou le caméraman des organisateurs, dans des documents promotionnels ou se rapportant à l'événement.
+
+L'utilisation de mes données personnelles doit être conforme aux exigences du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données (le « RGPD »).
+
+**RENSEIGNEMENTS PERSONNELS**
+
+En tout temps, vous pouvez demander aux organisateurs de vous donner libre accès à vos renseignements personnels et exercer votre droit de consulter, modifier, supprimer ou exporter vos renseignements personnels, en envoyant un courriel au secrétariat de la conférence à l'adresse suivante: {{< meta contact.secretariat >}}.\
+Vous trouverez toute l'information relative à la protection des données (nom et coordonnées {{< meta gdpr.controller-fr-de >}} à titre de responsable du traitement au sens du RGPD, nom et coordonnées du délégué à la protection des données {{< meta gdpr.controller-fr-de >}}, ainsi que renseignements sur vos droits en matière de protection des données et de plainte) dans la section [data protection information about this website](https://r-project.ro/conference2020_legal_notice.html).

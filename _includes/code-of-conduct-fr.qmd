@@ -1,0 +1,19 @@
+<!-- Shared across conference pages; pulled in via the Quarto "include" shortcode. -->
+
+Les organisateurs, les conférenciers, les participants inscrits et les commanditaires de la conférence uRos et/ou du marathon de programmation unconfUROS, ainsi que les personnes et les organisations qui suivent et commentent les événements de la conférence en ligne et/ou sur les médias sociaux (collectivement, les « participants ») sont tenus de respecter le présent code de conduite.
+
+**Respect de la vie privée**: les participants respectent la vie privée des autres participants. Il n'est pas permis d'entreprendre de rassembler de façon systématique des renseignements sur les organisateurs, les conférenciers et les participants (inscrits), y compris, sans s'y limiter, des renseignements sur la vie personnelle de ces personnes, leurs fonctions professionnelles, leurs positions politiques, leurs sorties sur les médias sociaux, leurs contributions à des logiciels ouverts, et/ou des photos de ces personnes.
+
+**Ouverture**: les participants sont ouverts à la collaboration, que ce soit pour des projets, des groupes de travail, des applications, la résolution de problèmes ou autre. Les participants sont réceptifs aux critiques et commentaires constructifs, car ils sont conscients que les expériences et les compétences des autres participants contribuent à l'ensemble de nos efforts. Les participants se montrent ouverts envers les personnes qui souhaitent prendre part à leurs activités, car ils ont conscience de l'importance de promouvoir un environnement qui favorise la participation de tous et permet à chacun d'apporter sa contribution.
+
+**Respect**: les participants font preuve de respect les uns envers les autres en ce qui concerne leurs fonctions professionnelles, leurs compétences, leurs engagements et leurs efforts. Ils sont respectueux des efforts bénévoles qui sous-tendent la communauté R. En cas de désaccord, les participants font valoir leur point de vue de façon courtoise. Les participants se montrent attentifs dans le cadre de leurs communications, que celles-ci aient lieu en personne ou en ligne, et font preuve de tact face aux points de vue différents des leurs. Ils s'abstiennent d'avoir des comportements ou de tenir des propos dévalorisants, discriminatoires ou tenant du harcèlement.
+
+**Bienveillance**: les participants se montrent bienveillants envers leurs pairs -- les autres participants à la conférence uRos. Ils font preuve de considération lorsqu'ils commentent les efforts des autres, car ils savent que, dans bien des cas, ces efforts ont été déployés pour le bien de la communauté.
+
+En cas de non-respect, les participants pourraient être expulsés des lieux et il pourrait leur être interdit de communiquer avec l'organisation. S'il y a lieu, les autorités ou les organisations compétentes seront informées du comportement inapproprié.
+
+**Tenue appropriée**: Les participants se présentent dans une tenue appropriée dans un environnement professionnel.
+
+**Références**
+
+Le présent code de conduite est fondé sur le [R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct) établi par le [R consortium](https://www.r-consortium.org/)

@@ -1,0 +1,25 @@
+---
+# Copy this folder to events/<yyyy-mm-short-name>/ (no leading underscore)
+# and fill in the fields. The events listing picks it up automatically.
+title: "Workshop title"
+subtitle: "One-line summary"
+description: "Short teaser shown on the events listing card."
+year: 2027
+dates: "1–2 March 2027"
+location: "City, Country"
+venue: "Venue name and address"
+host: "Hosting institution"
+event-format: "Workshop"        # Workshop | Training | Meetup | Hackathon | ...
+image: images/logo.png          # optional, shown on the listing card
+image-alt: "Describe the image"
+---
+
+## About
+
+What, for whom, and why.
+
+## Programme
+
+## Registration
+
+## Contact

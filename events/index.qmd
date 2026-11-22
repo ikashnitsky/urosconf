@@ -1,0 +1,18 @@
+---
+title: "Events"
+subtitle: "Workshops, trainings and other uRos community events"
+toc: false
+title-block-banner: true
+listing:
+  id: events
+  contents:
+    - "*/index.qmd"
+    - archive.yml
+  template: ../_templates/event-cards.ejs
+  sort: "year desc"
+---
+
+Besides the annual conference, the uRos community and the R Project Romania Team organise workshops and trainings. Looking for the main conference? See [all uRos conferences](/conferences/index.qmd).
+
+::: {#events}
+:::

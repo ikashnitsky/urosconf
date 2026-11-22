@@ -1,0 +1,19 @@
+<!-- Shared across conference pages; pulled in via the Quarto "include" shortcode. -->
+
+Organisers, speakers, registered participants, and sponsors of the uRos conference and/or unconfUROS hackathon, as well as persons or organizations following and discussing the conference through (social) media or internet are required to follow this Code of Conduct. We shall refer to the combined group as 'participants' of the uRos conference.
+
+**Privacy**: participants respect each other's privacy. In particular it is not allowed to systematically gather information on organisers, speakers and (registered) participants, including but not limited to personal life, professional position, political views, social media outings, open source contributions, or pictures.
+
+**Open**: participants are open to collaboration, whether it's on projects, working groups, packages, problems, or otherwise. Participants are receptive to constructive comment and criticism, as the experiences and skill sets of other participants contribute to the whole of our efforts. Participants are accepting of anyone who wishes to take part in their activities, fostering an environment where all can participate and everyone can make a difference.
+
+**Respectful**: participants are respectful of others, their positions, their skills, their commitments, and their efforts. They are respectful of the volunteer efforts that permeate the R community. In the case of disagreement, participants are courteous in raising their issues. Participants are attentive in communication, whether in person or online, and tactful when approaching differing views. They refrain from demeaning, discriminatory, or harassing behaviour and speech.
+
+**Considerate**: participants are considerate of their peers --- fellow uRos participants. They are thoughtful when addressing the efforts of others, keeping in mind that oftentimes the labour was completed simply for the good of the community.
+
+In case of violation, participants may be removed from the premises or blocked from communication with the organization. Where relevant, the proper authorities or organizations will be informed of inappropriate behaviour.
+
+**Dress code**: Participants should dress appropriately for a professional environment.
+
+**References**
+
+This code of conduct is based on the [R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct) by the [R consortium](https://www.r-consortium.org/)

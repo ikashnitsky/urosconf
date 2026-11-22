@@ -1,0 +1,5 @@
+# Defaults for every page under conferences/ (merged into each page's front matter).
+title-block-banner: true
+toc: true
+toc-depth: 3
+lightbox: auto

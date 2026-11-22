@@ -1,0 +1,116 @@
+---
+title: "uRos2026 · Live"
+subtitle: "Agenda, real-time information and photos from Paris, 18–20 November 2026"
+lang: en
+image: photos/group-photo-small.jpg
+image-alt: "Group photo of uRos2026 participants in Paris"
+aliases:
+  - /conference2026-live.html
+---
+
+This page contains agenda, real-time and important information during the conference.
+
+Visit this website regularly for updates or [follow us on LinkedIn](https://www.linkedin.com/company/the-use-of-r-in-official-statistics-uros/posts).
+
+[← Back to the uRos2026 conference page](index.qmd)
+
+## Venue
+
+The conference will be hosted by INSEE at the premises of the Ministry of Economics.
+
+Conference venue: Pierre Mendès France Conference Center, 139 Rue de Bercy, 75012 Paris, France.
+
+```{=html}
+<div class="ratio ratio-16x9 mb-3" style="max-width: 720px;">
+<iframe title="Map: Pierre Mendès France Conference Center, Ministry of Economics and Finance, Paris" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10503.587037579366!2d2.3653399827927934!3d48.84110792102288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67210a6ab7d15%3A0x893979ba430d3b4d!2sMINISTERE%20DE%20L&#39;ECONOMIE%2C%20DES%20FINANCES%20ET%20DE%20LA%20SOUVERAINETE%20INDUSTRIELLE%2C%20ENERGETIQUE%20ET%20NUMERIQUE!5e0!3m2!1sen!2sfr!4v1794928916618!5m2!1sen!2sfr" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
+```
+
+[Share location](https://www.google.com/maps?q=48.8410182,2.3786076&z=17&hl=en)
+
+## Agenda
+
+- **18th of November:** Tutorials
+- **19th of November:** Welcome message & Keynote speaker 1 & Sessions of presentations
+- **20th of November:** Keynote speaker 2 & Sessions of presentations & Closing remarks
+
+**uRos 2026 Programme:** [uros2026_programme.pdf](https://raw.githubusercontent.com/uRosConf/programme2026/main/uros2026_programme.pdf)
+
+::: {.panel-tabset}
+
+### Wed 18 Nov
+
+**Wednesday, 18 November 2026**
+
+| Time          | Session                                                                                 |
+|---------------|-----------------------------------------------------------------------------------------|
+| 08:00 - 09:00 | Registration and Walk-in (Lobby)                                                        |
+| 09:00 - 10:30 | Tutorial session I in Auditorium and Bloch-Lainé 1 ("cour")                             |
+| 10:30 - 11:00 | Coffee break                                                                            |
+| 09:00 - 10:30 | Tutorial session II in Auditorium, Bloch-Lainé 1 ("cour") and Bloch-Lainé 2 ("rue")     |
+| 12:30 - 13:30 | Lunch break                                                                             |
+| 13:30 - 15:00 | Tutorial session III in Auditorium, Bloch-Lainé 1 ("cour") and Bloch-Lainé 2 ("rue")    |
+| 15:00 - 15:30 | Coffee break                                                                            |
+| 15:30 - 17:30 | Tutorial session IV in Bloch-Lainé 1 ("cour") and Bloch-Lainé 2 ("rue")                 |
+
+### Thu 19 Nov
+
+**Thursday, 19 November 2026**
+
+| Time          | Session                                                                    |
+|---------------|----------------------------------------------------------------------------|
+| 08:00 - 09:00 | Registration and Walk-in (Lobby)                                           |
+| 09:00 - 09:15 | Opening                                                                    |
+| 09:15 - 10:15 | Keynote speaker Rebecca Killick: "R and Open-Source: A love story"         |
+| 10:15 - 11:00 | EMOS session I                                                             |
+| 11:00 - 11:30 | Coffee break                                                               |
+| 11:30 - 13:00 | Scientific sessions                                                        |
+| 13:00 - 14:00 | Lunch break                                                                |
+| 14:00 - 15:30 | Scientific sessions                                                        |
+| 15:30 - 16:00 | Coffee break                                                               |
+| 16:00 - 17:30 | Scientific sessions                                                        |
+| 18:00 - 21:00 | Networking Cocktail (Lobby)                                                |
+
+### Fri 20 Nov
+
+**Friday, 20 November 2026**
+
+| Time          | Session                                                           |
+|---------------|-------------------------------------------------------------------|
+| 08:00 - 09:00 | Registration and Walk-in (Lobby)                                  |
+| 09:00 - 10:00 | Keynote speaker Simon Couch: "Practical AI for Data Science"      |
+| 10:00 - 10:50 | EMOS session II                                                   |
+| 10:50 - 11:15 | Coffee break                                                      |
+| 11:15 - 12:45 | Scientific sessions                                               |
+| 12:45 - 13:45 | Lunch break                                                       |
+| 13:45 - 15:15 | Scientific sessions                                               |
+| 15:15 - 15:45 | Coffee break                                                      |
+| 16:15         | Closing remarks                                                   |
+
+:::
+
+## Abstracts
+
+**Download the book of abstracts:** [uros2026_book_of_abstracts.pdf](files/uros2026_book_of_abstracts.pdf)
+
+## Photo Group
+
+[![](photos/group-photo-small.jpg){fig-alt="Group photo of uRos2026 participants, Paris."}](photos/group-photo.jpg)
+
+Click the photo for the high-resolution version.
+
+## Live images
+
+The photos are displayed in reverse chronological order. Click any photo to browse the session in a lightbox.
+
+{{< include _photos.qmd >}}
+
+## Contact
+
+We look forward to meet you in person at the premises of Ministry of Economics, Finance and Industrial and Digital Sovereignty, at the Pierre Mendès France Conference Center!\
+The conference secretariat can be reached via: uros2026 \[at\] insee.fr
+
+## Secretariat members
+
+Anna Smyk, INSEE France\
+Ana Maria Ciuhu, National Institute of Statistics, Romania

@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: _site
+  # Anything under a leading-underscore path (_includes/, */_template/) is
+  # never rendered; it is either included into pages or used as a skeleton.
+
+website:
+  title: "uRos"
+  description: >-
+    The Use of R in Official Statistics: the annual international conference
+    for official statisticians, methodologists and data scientists using R.
+  favicon: assets/favicon.ico
+  # urosconf.org (advertised on the hex sticker) currently redirects to r-project.ro.
+  site-url: https://urosconf.org
+  repo-url: https://github.com/ikashnitsky/urosconf
+  repo-actions: [edit, issue]
+  open-graph: true
+  back-to-top-navigation: true
+  page-navigation: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Conferences
+        menu:
+          - href: conferences/2026/index.qmd
+            text: "uRos2026 · Paris"
+          - href: conferences/2026/live.qmd
+            text: "uRos2026 · Live & photos"
+          - text: "---"
+          - href: conferences/index.qmd
+            text: "All conferences"
+      - href: events/index.qmd
+        text: Events
+      - href: about.qmd
+        text: About
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/the-use-of-r-in-official-statistics-uros/posts
+        aria-label: uRos on LinkedIn
+      - icon: github
+        href: https://github.com/uRosConf
+        aria-label: uRosConf on GitHub
+  page-footer:
+    left: >-
+      © 2013–2026 uRos · The Use of R in Official Statistics ·
+      [R Project – Romania Team](https://r-project.ro/)
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/the-use-of-r-in-official-statistics-uros/posts
+        aria-label: uRos on LinkedIn
+      - icon: facebook
+        href: https://www.facebook.com/romanianRteam/
+        aria-label: R Project Romania on Facebook
+      - icon: github
+        href: https://github.com/uRosConf
+        aria-label: uRosConf on GitHub
+
+format:
+  html:
+    theme:
+      - quartz
+      - brand
+      - styles/custom.scss
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    lang: en

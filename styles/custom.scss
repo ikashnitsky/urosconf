@@ -1,0 +1,289 @@
+/*-- scss:defaults --*/
+
+$navbar-brand-font-size: 1.4rem !default;
+
+/*-- scss:rules --*/
+
+// ---- general ---------------------------------------------------------------
+
+.navbar-brand img,
+.navbar-logo {
+  max-height: 42px;
+}
+
+// Logos (transparent PNG/SVG designed for white backgrounds) sit on a light
+// "chip" so they stay legible on the quartz gradient.
+.logo-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border-radius: 0.75rem;
+  padding: 0.6rem 0.9rem;
+  img {
+    max-height: 72px;
+    width: auto;
+    margin: 0;
+  }
+}
+
+// ---- conference page header ------------------------------------------------
+
+.lang-switch {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+  img {
+    height: 1em;
+    width: auto;
+    margin: 0 0.3em 0 0;
+    vertical-align: -0.1em;
+    border-radius: 2px;
+  }
+  .active {
+    font-weight: 700;
+    text-decoration: none;
+    pointer-events: none;
+  }
+}
+
+.event-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0 1.5rem;
+  > div {
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 0.75rem;
+    padding: 0.7rem 0.9rem;
+    p { margin: 0; }
+  }
+  .label {
+    display: block;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    opacity: 0.8;
+  }
+}
+
+.banner img {
+  width: 100%;
+  border-radius: 0.75rem;
+  background: #fff;
+}
+
+// ---- keynote speakers --------------------------------------------------------
+
+.speaker {
+  margin-bottom: 2rem;
+  .speaker-photo img {
+    width: 100%;
+    max-width: 220px;
+    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: top;
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+  }
+}
+
+// ---- programme day cards ---------------------------------------------------
+
+.day-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+  > div {
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 0.75rem;
+    padding: 1rem 1.1rem 0.4rem;
+  }
+  h4, .day-title {
+    margin-top: 0;
+    font-size: 1.1rem;
+    font-weight: 700;
+  }
+}
+
+// ---- organisers / partners -------------------------------------------------
+
+.partner-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: stretch;
+  margin-bottom: 1rem;
+  .partner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    text-align: center;
+    max-width: 14rem;
+    font-size: 0.9rem;
+    p { margin: 0; }
+  }
+}
+
+// ---- people lists ----------------------------------------------------------
+
+.people-list ul {
+  columns: 2 20rem;
+  column-gap: 2rem;
+  li { break-inside: avoid; }
+}
+
+// ---- live page photo galleries ---------------------------------------------
+
+.photo-caption {
+  display: block;
+  font-weight: 700;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  p { margin: 0; }
+  img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 0.4rem;
+    margin: 0;
+    transition: transform 0.15s ease-in-out;
+    &:hover { transform: scale(1.02); }
+  }
+}
+
+// ---- listings (conference archive & events) --------------------------------
+
+.event-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 1rem;
+}
+
+.event-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 0.9rem;
+  padding: 1rem 1.1rem;
+  color: inherit;
+  text-decoration: none;
+  transition: background 0.15s ease-in-out, transform 0.15s ease-in-out;
+  p { margin: 0; }
+  &:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+    color: inherit;
+  }
+  .event-card-head {
+    display: flex;
+    gap: 0.9rem;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+  .event-card-img {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+  .event-year {
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .event-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+  }
+  .event-meta {
+    font-size: 0.9rem;
+    opacity: 0.9;
+    margin-bottom: 0.25rem;
+  }
+  .event-desc {
+    font-size: 0.9rem;
+    opacity: 0.85;
+    margin-top: 0.4rem;
+  }
+  .event-badges {
+    margin-top: auto;
+    padding-top: 0.6rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .event-badge {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 999px;
+    padding: 0.1rem 0.55rem;
+  }
+}
+
+.listing-empty {
+  opacity: 0.85;
+  font-style: italic;
+}
+
+// ---- home page hero --------------------------------------------------------
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 2rem;
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+  .hero-logo img {
+    max-width: 260px;
+    width: 100%;
+    filter: drop-shadow(0 0.75rem 1.5rem rgba(0, 0, 0, 0.3));
+  }
+}
+
+// ---- contrast fixes on the quartz gradient ---------------------------------
+
+.blockquote,
+blockquote {
+  color: rgba(255, 255, 255, 0.92);
+  font-style: italic;
+  border-left-color: rgba(255, 255, 255, 0.6);
+}
+
+.callout .callout-title-container,
+.callout.callout-style-simple .callout-title-container {
+  color: #fff;
+  font-weight: 700;
+}
+
+.event-facts + h2,
+.event-facts + section {
+  margin-top: 2rem;
+}
+.event-facts {
+  margin-bottom: 2.5rem;
+}
+
+// agenda tables on live pages: keep the time range on one line
+.panel-tabset table td:first-child {
+  white-space: nowrap;
+}

@@ -1,0 +1,20 @@
+# Past events (workshops, trainings, meetups) hosted elsewhere.
+# New events get their own page in events/<yyyy-mm-slug>/index.qmd instead.
+
+- title: "Workshop: Applied R to Social Sciences"
+  year: 2016
+  dates: "November 4-5, 2016"
+  location: "Romania"
+  host: "Faculty of Business and Administration, University of Bucharest, and the Romanian R Team"
+  event-format: "Workshop"
+  path: http://icea-conference.eu/icea/index.php/2016/10/12/the-final-agenda-for-icea-2016/
+
+- title: "Pre-conference workshop: Introduction to R and Data Visualization"
+  year: 2015
+  dates: "November 2-3, 2015"
+  location: "Malaysia"
+  event-format: "Workshop"
+  description: >-
+    A 2-day practical review of R's major graphing capabilities, including base
+    functionality and the lattice and ggplot2 packages.
+  path: http://www.icms2015.org/index.php/program/workshop

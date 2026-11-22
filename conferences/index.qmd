@@ -1,0 +1,20 @@
+---
+title: "uRos conferences"
+subtitle: "Every edition of The Use of R in Official Statistics, since 2013"
+toc: false
+title-block-banner: true
+listing:
+  id: conferences
+  contents:
+    - "*/index.qmd"   # migrated editions (front matter: year, dates, location, host, ...)
+    - archive.yml     # editions still hosted on r-project.ro
+  template: ../_templates/event-cards.ejs
+  sort: "year desc"
+---
+
+::: {.callout-tip appearance="simple" title="Host a future edition"}
+We are looking for interested persons or institutions to host future editions of the conference. Please just get in touch with us if you are interested (Ana Maria Ciuhu, anamaria.ciuhu \[at\] insse.ro). Some marginal constraints are written down in this [document](https://r-project.ro/uRosMarginalConstraints.pdf).
+:::
+
+::: {#conferences}
+:::

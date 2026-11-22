@@ -1,0 +1,130 @@
+---
+# HOW TO START A NEW EDITION
+# 1. Copy this folder to conferences/<year>/ (drop the leading underscore).
+# 2. Fill in the fields below; the archive listing and the "facts" strip use them.
+# 3. Add images/, files/ and (during the event) photos/ next to this file.
+# 4. Point the "Conferences" menu in _quarto.yml and the hex logo in
+#    _brand.yml at the new edition.
+title: "uRosYYYY"
+subtitle: "The Use of R in Official Statistics · DD–DD Month YYYY · City, Country"
+description: "Hosted by <institution>."   # one sentence; shown on the listing card
+lang: en
+image: images/urosYYYY-hex.png
+image-alt: "uRosYYYY hex sticker"
+# aliases: [/conferenceYYYY.html]         # keep old r-project.ro URLs working
+
+year: YYYY
+dates: "DD–DD Month YYYY"
+location: "City, Country"
+venue: "Venue name, address"
+host: "Host institution"
+event-format: "On-site"                   # On-site | Virtual | Hybrid
+
+contact:
+  secretariat: "urosYYYY [at] example.org"
+gdpr:
+  controller: "Romanian National Institute of Statistics"
+---
+
+<!-- Optional: language switch if a translated page (e.g. fr.qmd) exists
+::: {.lang-switch}
+[![](/assets/flags/gb.png) English]{.active aria-current="page"}
+[![](/assets/flags/fr.png) Français](fr.qmd){hreflang="fr" lang="fr"}
+:::
+-->
+
+::: {.event-facts}
+::: {.fact}
+[Dates]{.label} {{< meta dates >}}
+:::
+::: {.fact}
+[Venue]{.label} {{< meta venue >}}
+:::
+::: {.fact}
+[Host]{.label} {{< meta host >}}
+:::
+::: {.fact}
+[Format]{.label} {{< meta event-format >}}
+:::
+:::
+
+## uRosYYYY
+
+## Important dates
+
+| Milestone                                    | Date |
+|----------------------------------------------|------|
+| Abstracts and tutorials submissions deadline |      |
+| Notification of acceptance                   |      |
+| Scientific conference                        |      |
+| Journal paper submission deadline            |      |
+
+## Keynote Speakers
+
+### Speaker Name
+
+::: {.speaker .grid}
+::: {.g-col-12 .g-col-md-3 .speaker-photo}
+![](images/speaker-name.jpg){fig-alt="Portrait photo of Speaker Name."}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+Bio.
+:::
+:::
+
+::: {.callout-note appearance="simple" icon="false" title="Keynote: \"Talk title\""}
+**Abstract:** ...
+:::
+
+## Programme
+
+::: {.day-cards}
+::: {.day}
+[Day 1]{.day-title}
+
+- Tutorials
+:::
+:::
+
+## Registration
+
+## Call for abstracts - presentations
+
+## Call for abstracts - tutorials
+
+## Organisation
+
+### Organizing committee
+
+::: {.people-list}
+- Name (Affiliation)
+:::
+
+### Scientific Board
+
+::: {.people-list}
+- Name (Affiliation)
+:::
+
+## Venue & Contact
+
+The conference secretariat can be reached via: {{< meta contact.secretariat >}}
+
+## Code of Conduct
+
+{{< include /_includes/code-of-conduct-en.qmd >}}
+
+## GDPR terms and conditions
+
+{{< include /_includes/gdpr-en.qmd >}}
+
+## Organisers
+
+::: {.partner-grid}
+::: {.partner}
+[![](/assets/logos/ins-romania.png){fig-alt="National Institute of Statistics, Romania, logo"}](http://www.insse.ro/){.logo-chip}
+
+National Institute of Statistics - Romania
+:::
+:::

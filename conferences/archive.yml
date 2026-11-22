@@ -1,0 +1,99 @@
+# Past editions not yet migrated to this site. Each card links to the original
+# r-project.ro page. When an edition is migrated to conferences/<year>/index.qmd,
+# delete its entry here (the new page's front matter feeds the listing instead).
+# Only facts stated on r-project.ro are recorded; add dates/cities when known.
+
+- title: "uRos2025"
+  year: 2025
+  location: "Romania"
+  host: "Romanian National Institute of Statistics"
+  path: https://r-project.ro/conference2025.html
+  legacy: true
+
+- title: "uRos2024"
+  year: 2024
+  location: "Greece"
+  host: "Hellenic Statistical Authority (ELSTAT)"
+  path: https://r-project.ro/conference2024.html
+  legacy: true
+
+- title: "uRos2023"
+  year: 2023
+  location: "Romania"
+  host: "Romanian National Institute of Statistics"
+  event-format: "On-site"
+  path: https://r-project.ro/conference2023.html
+  legacy: true
+
+- title: "uRos2022"
+  year: 2022
+  location: "Canada"
+  host: "Statistics Canada"
+  event-format: "Virtual"
+  description: "The first non-European uRos, celebrating a decade of uRos events. Also available in French."
+  path: https://r-project.ro/conference2022.html
+  legacy: true
+
+- title: "uRos2021"
+  year: 2021
+  location: "Romania"
+  host: "Romanian National Institute of Statistics"
+  event-format: "Virtual"
+  path: https://r-project.ro/conference2021.html
+  legacy: true
+
+- title: "uRos2020"
+  year: 2020
+  location: "Austria"
+  host: "Statistics Austria"
+  event-format: "Virtual"
+  description: "The first virtual edition of uRos."
+  path: https://r-project.ro/conference2020.html
+  legacy: true
+
+- title: "uRos2019"
+  year: 2019
+  location: "Romania"
+  path: https://r-project.ro/conference2019.html
+  legacy: true
+
+- title: "uRos2018"
+  year: 2018
+  location: "Netherlands"
+  host: "Statistics Netherlands"
+  description: "The sixth edition of uRos."
+  path: https://r-project.ro/conference2018.html
+  legacy: true
+
+- title: "uRos2017"
+  year: 2017
+  location: "Romania"
+  path: https://r-project.ro/conference2017.html
+  legacy: true
+
+- title: "uRos2016"
+  year: 2016
+  location: "Romania"
+  path: https://r-project.ro/conference2016.html
+  legacy: true
+
+- title: "uRos2015"
+  year: 2015
+  location: "Romania"
+  path: https://r-project.ro/conference2015.html
+  legacy: true
+
+- title: "uRos2014 Workshop"
+  year: 2014
+  location: "Romania"
+  description: "The first international edition, held at the Statistical Office of Romania."
+  path: https://r-project.ro/workshop2014.html
+  legacy: true
+
+- title: "First uRos workshop"
+  year: 2013
+  location: "Romania"
+  host: "Ecological University of Bucharest, Department of Economics"
+  description: >-
+    The first workshop on "use of R in official statistics", under the topic
+    State-of-the-art statistical software commonly used in applied economics.
